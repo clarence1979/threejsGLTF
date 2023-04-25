@@ -1,0 +1,307 @@
+{
+	"asset":{
+		"generator":"Khronos glTF Blender I/O v3.5.30",
+		"version":"2.0"
+	},
+	"extensionsUsed":[
+		"KHR_draco_mesh_compression"
+	],
+	"extensionsRequired":[
+		"KHR_draco_mesh_compression"
+	],
+	"scene":0,
+	"scenes":[
+		{
+			"extras":{
+				"HG3D":{
+					"subscribed":1,
+					"load_exception":0,
+					"previews_dir_humans":"",
+					"previews_list_humans":[
+						"\\models\\male\\Asian 1.json",
+						"\\models\\male\\Asian 2.json",
+						"\\models\\male\\Asian 3.json",
+						"\\models\\male\\Asian 4.json",
+						"\\models\\male\\Asian 5.json",
+						"\\models\\male\\Asian 6.json",
+						"\\models\\male\\Asian 7.json",
+						"\\models\\male\\Asian 8.json",
+						"\\models\\male\\Black 1.json",
+						"\\models\\male\\Black 2.json",
+						"\\models\\male\\Black 3.json",
+						"\\models\\male\\Black 4.json",
+						"\\models\\male\\Black 5.json",
+						"\\models\\male\\Caucasian 1.json",
+						"\\models\\male\\Caucasian 2.json",
+						"\\models\\male\\Caucasian 3.json",
+						"\\models\\male\\Caucasian 4.json",
+						"\\models\\male\\Caucasian 5.json",
+						"\\models\\male\\Hispanic 1.json"
+					],
+					"active_ui_tab":1,
+					"male_chance":50,
+					"female_chance":50,
+					"batch_hair":1,
+					"batch_expression":1,
+					"batch_performance_statistics":1,
+					"batch_progress":100,
+					"batch_idx":0,
+					"batch_clothing":1,
+					"pcoll_humans":"none"
+				},
+				"contentpacks_col":[
+					{
+						"name":"header"
+					},
+					{
+						"name":"8K Textures",
+						"pack_name":"8K Textures",
+						"creator":"HumGen",
+						"weblink":"https://www.humgen3d.com",
+						"description":null,
+						"icon_name":null,
+						"pack_version":[
+							1,
+							0
+						],
+						"json_path":"D:\\Assets\\Blender\\Assets\\Human\\\\content_packs\\8K_Textures.json",
+						"humans":false,
+						"human_textures":true,
+						"shapekeys":false,
+						"hair":false,
+						"poses":false,
+						"clothes":false,
+						"footwear":false,
+						"expressions":false
+					},
+					{
+						"name":"Base Clothes",
+						"pack_name":"Base Clothes",
+						"creator":"HumGen",
+						"weblink":"https://www.humgen3d.com",
+						"description":null,
+						"icon_name":null,
+						"pack_version":[
+							3,
+							0
+						],
+						"json_path":"D:\\Assets\\Blender\\Assets\\Human\\\\content_packs\\Base_Clothes.json",
+						"humans":false,
+						"human_textures":false,
+						"shapekeys":false,
+						"hair":false,
+						"poses":false,
+						"clothes":true,
+						"footwear":true,
+						"expressions":false,
+						"required_version":[
+							3,
+							0
+						],
+						"latest_version":[
+							3,
+							0
+						]
+					},
+					{
+						"name":"Base Hair",
+						"pack_name":"Base Hair",
+						"creator":"HumGen",
+						"weblink":"https://www.humgen3d.com",
+						"description":null,
+						"icon_name":null,
+						"pack_version":[
+							3,
+							0
+						],
+						"json_path":"D:\\Assets\\Blender\\Assets\\Human\\\\content_packs\\Base_Hair.json",
+						"humans":false,
+						"human_textures":false,
+						"shapekeys":false,
+						"hair":true,
+						"poses":false,
+						"clothes":false,
+						"footwear":false,
+						"expressions":false,
+						"latest_version":[
+							3,
+							0
+						]
+					},
+					{
+						"name":"Base Humans",
+						"pack_name":"Base Humans",
+						"creator":"HumGen",
+						"weblink":"https://www.humgen3d.com",
+						"description":null,
+						"icon_name":null,
+						"pack_version":[
+							3,
+							0
+						],
+						"json_path":"D:\\Assets\\Blender\\Assets\\Human\\\\content_packs\\Base_Humans.json",
+						"humans":true,
+						"human_textures":true,
+						"shapekeys":true,
+						"hair":false,
+						"poses":false,
+						"clothes":false,
+						"footwear":false,
+						"expressions":true,
+						"required_version":[
+							3,
+							0
+						],
+						"latest_version":[
+							3,
+							0
+						]
+					},
+					{
+						"name":"Base Poses",
+						"pack_name":"Base Poses",
+						"creator":"HumGen",
+						"weblink":"https://www.humgen3d.com",
+						"description":null,
+						"icon_name":null,
+						"pack_version":[
+							3,
+							0
+						],
+						"json_path":"D:\\Assets\\Blender\\Assets\\Human\\\\content_packs\\Base_Poses.json",
+						"humans":false,
+						"human_textures":false,
+						"shapekeys":false,
+						"hair":false,
+						"poses":true,
+						"clothes":false,
+						"footwear":false,
+						"expressions":false,
+						"latest_version":[
+							3,
+							0
+						]
+					},
+					{
+						"name":"Extra Outfits",
+						"pack_name":"Extra Outfits",
+						"creator":"HumGen",
+						"weblink":"https://www.humgen3d.com",
+						"description":null,
+						"icon_name":null,
+						"pack_version":[
+							3,
+							0
+						],
+						"json_path":"D:\\Assets\\Blender\\Assets\\Human\\\\content_packs\\Extra Outfits.json",
+						"humans":false,
+						"human_textures":false,
+						"shapekeys":false,
+						"hair":false,
+						"poses":false,
+						"clothes":true,
+						"footwear":true,
+						"expressions":false,
+						"required_version":[
+							3,
+							0
+						],
+						"latest_version":[
+							3,
+							0
+						]
+					}
+				],
+				"modapply_col":[
+					{
+						"mod_name":"HEADER",
+						"count":1
+					}
+				],
+				"hg_tips_and_suggestions":[
+					{
+						"title":"Batch mode tutorial",
+						"icon_name":"HELP",
+						"tip_text":"You can find the tutorial about\nthe batch mode here:\n",
+						"operator_icon":"URL",
+						"operator_name":"wm.url_open",
+						"operator_label":"Open tutorial in browser",
+						"operator_keyword":"url",
+						"operator_argument":"https://publish.obsidian.md/human-generator/Using+the+batch+generator"
+					},
+					{
+						"title":"No markers in scene?",
+						"icon_name":"INFO",
+						"tip_text":"If the purple button says\n\"Generate 0 Humans\", add some\nHuman Generator markers from\nthe Add Object (Shift+A) menu.\n"
+					}
+				],
+				"batch_clothing_col":[
+					{
+						"name":"Casual",
+						"library_name":"Casual",
+						"male_items":6,
+						"female_items":5
+					},
+					{
+						"name":"Custom",
+						"library_name":"Custom",
+						"male_items":0,
+						"female_items":0
+					},
+					{
+						"name":"Extra Outfits Pack",
+						"library_name":"Extra Outfits Pack",
+						"male_items":7,
+						"female_items":9
+					},
+					{
+						"name":"Office",
+						"library_name":"Office",
+						"male_items":6,
+						"female_items":6
+					},
+					{
+						"name":"Summer",
+						"library_name":"Summer",
+						"male_items":3,
+						"female_items":3
+					},
+					{
+						"name":"Winter",
+						"library_name":"Winter",
+						"male_items":1,
+						"female_items":1
+					}
+				],
+				"batch_expressions_col":[
+					{
+						"name":"Base Shapekeys",
+						"library_name":"Base Shapekeys",
+						"count":17
+					},
+					{
+						"name":"Expressive",
+						"library_name":"Expressive",
+						"count":5
+					},
+					{
+						"name":"Happy",
+						"library_name":"Happy",
+						"count":4
+					},
+					{
+						"name":"Neutral",
+						"library_name":"Neutral",
+						"count":6
+					},
+					{
+						"name":"Sad",
+						"library_name":"Sad",
+						"count":1
+					}
+				]
+			},
+			"name":"Scene"
+		}
+	]
+}
